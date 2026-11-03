@@ -1,0 +1,3 @@
+time_s,patient,type,detail
+204,2,THRESHOLD,avg_5s=124.3 bpm
+310,3,DEVICE_OFFLINE,no reading for >10 s (last seen t=299)

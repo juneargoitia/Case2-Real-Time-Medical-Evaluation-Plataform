@@ -1,0 +1,23 @@
+# Java build output
+java/out/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# LaTeX build files
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.bbl
+report/*.blg
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
